@@ -1,0 +1,2 @@
+# Prediction-of-Loan-Status-using-Machine-Learning-Classifiers
+Built visualizations and obtained statistical inferences to understand the relation between the independent variables and the Loan Status target variable.  Handled the Big data using SGD Classifier partial fit with best tuning parameters and adopting PCA to reduce the dimensionality. Fitted the Chunk data obtained with varied Classifiers such as SVM, Logistic regression and Random Forest to obtain the best F1 Score,AUC, Accuracy.
